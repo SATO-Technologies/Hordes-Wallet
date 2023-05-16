@@ -20,7 +20,7 @@ For Android users, you can download the app by following the link below:
 
 ## Feedback and Support
 
-We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to [create an issue](https://github.com/your-username/ProjectName/issues) on our GitHub repository or contact us at support@email.com.
+We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to [create an issue](https://github.com/your-username/ProjectName/issues) on our GitHub repository or contact us at hello@bysato.com.
 
 Stay tuned for the complete documentation and further updates on this project!
 
