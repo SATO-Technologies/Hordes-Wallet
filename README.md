@@ -1,6 +1,6 @@
 # HORDES WALLET
 
-![Project Logo](https://link-to-your-logo-image.com/logo.png)
+<img src="https://hordes.bysato.com/assets/images/hordes.png" width="50">
 
 **Note:** The detailed documentation for this project is currently under development and will be available soon. In the meantime, you can download and test the app on both iOS and Android platforms.
 
