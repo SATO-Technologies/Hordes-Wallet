@@ -10,17 +10,17 @@
 
 To download the app on your iOS device, please follow the link below to access it on Apple TestFlight:
 
-[iOS TestFlight Download](https://testflight.apple.com/join/YSPV8MQn)](<link iOS>)
+iOS TestFlight Download](https://testflight.apple.com/join/YSPV8MQn)
 
 ### Android
 
 For Android users, you can download the app by following the link below:
 
-[Android Download](https://play.google.com/store/apps/details?id=com.sato.hordes)](<link Android>)
+Android Download](https://play.google.com/store/apps/details?id=com.sato.hordes)
 
 ## Feedback and Support
 
-We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to [create an issue](https://github.com/your-username/ProjectName/issues) on our GitHub repository or contact us at hello@bysato.com.
+We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to contact us at hello@bysato.com.
 
 Stay tuned for the complete documentation and further updates on this project!
 
