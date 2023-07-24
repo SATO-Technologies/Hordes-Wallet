@@ -10,13 +10,13 @@
 
 To download the app on your iOS device, please follow the link below to access it on Apple TestFlight:
 
-[iOS TestFlight Download](<link iOS>)
+[iOS TestFlight Download](https://testflight.apple.com/join/YSPV8MQn)](<link iOS>)
 
 ### Android
 
 For Android users, you can download the app by following the link below:
 
-[[Android Download](https://play.google.com/store/apps/details?id=com.sato.hordes&ref=producthunt)](<link Android>)
+[Android Download](https://play.google.com/store/apps/details?id=com.sato.hordes)](<link Android>)
 
 ## Feedback and Support
 
