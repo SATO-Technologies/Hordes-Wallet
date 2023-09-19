@@ -6,11 +6,11 @@
 
 ## Getting Started
 
-### iOS (Apple TestFlight)
+### iOS
 
-To download the app on your iOS device, please follow the link below to access it on Apple TestFlight:
+To download the app on your iOS device, please follow the link below to access it on Apple:
 
-iOS TestFlight Download (https://testflight.apple.com/join/YSPV8MQn)
+iOS Download (https://apps.apple.com/pk/app/hordes-wallet/id6446144699)
 
 ### Android
 
