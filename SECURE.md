@@ -15,7 +15,7 @@ BitcoinJS is used as a complementary library for Ordinals related transactions. 
 
 ## Security
 
-The app is as secure as a hot wallet with good practices can be. It is not recommended to store large amounts of money on it. It is also not recommended to use it on a rooted device.
+The app employs robust security measures akin to those of a well-managed hot wallet, ensuring the safety of your ordinals. While it's designed for secure transactions, for optimal security, we advise against storing substantial sums within the app. Additionally, for enhanced protection, usage on a non-rooted device is recommended.
 
 The seed is stored in the device's secure storage. It is encrypted with a PIN code. The PIN is stored in the device's secure storage as well. The PIN and the seed are never sent to the server.
 
