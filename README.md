@@ -20,7 +20,7 @@ Android Download (https://play.google.com/store/apps/details?id=com.sato.hordes)
 
 ## Feedback and Support
 
-We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to contact us at hello@bysato.com.
+We appreciate your feedback and support during this testing phase. If you encounter any issues or have suggestions for improvements, please feel free to contact us at hordes@bysato.com.
 
 Stay tuned for the complete documentation and further updates on this project!
 
