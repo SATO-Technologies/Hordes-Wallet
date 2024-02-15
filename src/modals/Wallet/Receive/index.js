@@ -80,12 +80,7 @@ export default function WalletReceive({ name, onClose, addressType: addressTypeP
   }
 
   const onShareButtonPress = async () => {
-    let uri = null;
-    if( addressType == 'PAYMENTS' ) {
-      uri = await shareBitcoinRef.current?.capture();
-    } else {
-      uri = await shareLightningRef.current?.capture();
-    }
+    let uri = await shareBitcoinRef.current?.capture();
     if( uri ) {
       Share.open({
         message: localize(addressType == 'ORDINALS' ? 'WalletReceive.OrdinalsAddressShareText' : 'WalletReceive.PaymentsAddressShareText', [addressType == 'ORDINALS' ? address.ordinals : address.payments]),
